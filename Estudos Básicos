@@ -1,0 +1,14 @@
+C# aprendizados básicos
+Não esquecer no Console.WriteLine de fechar () e no ConsoleReadLine de fechar parentes()                      Exemplo: //Console.WriteLine()//Console.ReadLine()// 
+Não esquecer de converter no ConsoleReadLine() para Int32 ou Double ou Float Convert.ToInt32(ConsoleReadLine()) quando utilizar numeros.
+Operadores:
+Operador de atribuição =
+Operador aritmético + (Soma) - (Subtração) / (Divisão) * (Multiplicação) ** (Exponencial)
+Operador relacional > (Maior) < (Menor) >= (Maior igual) <= (Menor igual) == (igual) != (Diferente) Observar! == (Igual) é diferente de = (Atribuição)
+Operador logico && (Conjunção Lógica) ! (Negação Lógica)  | | (Disjunção Lógica)
+Operadores compostos  ++ (Incremento) -- (Decremento) += (Soma o que vem depois a variável, atribui adição)  -= (Subtrai o que vem depois da variável, atribui subtração)
+                      *= (atribui multiplicação) /= (atribui divisão) %= (atribui resto)
+Exemplo: x = x - 5 é igual x -= 5   ....... x = x*3 é igual x *= 3 .............. y = y + 1  igual a y ++    igual a y += 1
+         Pré e Pós fixado não tem diferença a menos que seja utilizado a outra expressão:
+         x = x + 1 é igual x++ e igual ++x
+         y = x + 1 é igual y = ++x e diferente de y = x++ que resulta em um valor y sem incrementação
